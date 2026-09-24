@@ -20,7 +20,7 @@ A data analysis project using **BLS Average Price Data**, SQL Server, and Power 
 
 **Tools:** SQL Server • T-SQL • Power BI • DAX • Excel/CSV
 
-[View the Food & Gas Price Analysis project](https://github.com/kelvintran/Food_Gas_Price_Analysis)
+[View the Food & Gas Price Analysis project](https://github.com/kelvintrankhoiminhconsulting-jpg/Food_Gas_Price_Analysis)
 
 ## Currently Learning
 
