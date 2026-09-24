@@ -14,13 +14,32 @@ I'm building my skills in **data analytics**, with a focus on SQL, Power BI, dat
 
 ## Featured Project
 
+## Featured Projects
+
 ### U.S. Food & Gas Price Trends: 2022–2026
 
-A data analysis project using **BLS Average Price Data**, SQL Server, and Power BI to analyze changes in food and gasoline prices over time.
+SQL Server and Power BI project analyzing U.S. food and gasoline average prices using BLS data.
 
-**Tools:** SQL Server • T-SQL • Power BI • DAX • Excel/CSV
+**Tools:** SQL Server • T-SQL • Power BI • DAX
 
-[View the Food & Gas Price Analysis project](https://github.com/kelvintrankhoiminhconsulting-jpg/Food_Gas_Price_Analysis)
+[View Project](https://github.com/kelvintrankhoiminhconsulting-jpg/Food_Gas_Price_Analysis)
+
+### Synthetic Hospital Analytics
+
+A synthetic healthcare analytics project focused on analyzing hospital-related data and developing practical data-analysis skills.
+
+**Tools:** SQL • Data Analysis • Data Visualization
+
+[View Project](https://github.com/kelvintrankhoiminhconsulting-jpg/Synthetic-Hospital-Analytics)
+
+### Synthetic Employee Performance Analysis
+
+A synthetic employee-performance analytics project exploring employee metrics and performance data using a data-analysis workflow.
+
+**Tools:** SQL • Data Analysis • Data Visualization
+
+[View Project](https://github.com/kelvintrankhoiminhconsulting-jpg/synthetic-employee-performance-analysis)
+
 
 ## Currently Learning
 
